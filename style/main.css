@@ -1,0 +1,18 @@
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+}
+
+.currencyDiv {
+  font-size: 32px;
+}
+
+.currencyIcon {
+  float: left;
+}
+
+#currenciesDiv {
+  width: 20%;
+  text-align: right;
+  float: right;
+}
